@@ -1,3 +1,4 @@
+---
 - hosts: pop-os.localdomain
   become: true
   task:
