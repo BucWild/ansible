@@ -1,4 +1,4 @@
-- hosts: pop-os
+- hosts: localhost
   become: true
   task:
   - name: Install htop
