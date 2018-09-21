@@ -1,6 +1,6 @@
 ---
-- hosts: pop-os
+- hosts:  localhost
   become: true
   task:
   - name: Install htop
-    apt: name=htop
+    apt:  name=htop
