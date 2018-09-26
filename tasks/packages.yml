@@ -6,4 +6,4 @@
       - mc
       - tmux
       - net-tools
-      - virtual-box
+      - curl
