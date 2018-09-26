@@ -3,7 +3,7 @@
   become: true
   pre_tasks:
     - name: update repositories
-      yum: update_cache=yes
+      apt: update_cache=yes
       change_when: False
 
   tasks:
