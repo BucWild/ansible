@@ -11,3 +11,4 @@
       - synaptic
       - pcscd 
       - pcsc-tools
+      - libpcsclite1
