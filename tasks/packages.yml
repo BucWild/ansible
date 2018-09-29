@@ -9,3 +9,5 @@
       - curl
       - vim
       - synaptic
+      - pcscd 
+      - pcsc-tools
