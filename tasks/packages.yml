@@ -12,3 +12,9 @@
       - pcscd 
       - pcsc-tools
       - libpcsclite1
+      - tree
+      - nmap
+      - godep
+      - golint
+   
+      
