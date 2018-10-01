@@ -14,7 +14,6 @@
       - libpcsclite1
       - tree
       - nmap
-      - godep
-      - golint
+
    
       
