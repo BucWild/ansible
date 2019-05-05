@@ -1,10 +1,10 @@
 ---
 - hosts: localhost
   become: true
-  pre_tasks:
-  - name: update repositories
-    apt: update_cache=yes
-    hange_when: false
+#  pre_tasks:
+#  - name: update repositories
+#    apt: update_cache=yes
+#    hange_when: false
 
   tasks:
     - include: tasks/users.yml
