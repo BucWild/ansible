@@ -4,7 +4,7 @@
   pre_tasks:
   - name: update repositories
     apt: update_cache=yes
-    hange_when: true
+    hange_when: false
 
   tasks:
     - include: tasks/users.yml
